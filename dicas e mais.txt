@@ -39,3 +39,21 @@ https://wakatime.com/ controle horas container
 https://www.noip.com/pt-BR?utm_source=google&utm_medium=cpc&utm_term=no%20ip&utm_campaign=22440634239&utm_adgroup=176772753503}&matchtype=b&device=c&gad_source=1&gad_campaignid=22440634239&gbraid=0AAAAAD_v4kjuVhtqcXkeajyCLkoBU63ZM&gclid=EAIaIQobChMIp7fo1_uZjwMVFEVIAB3USjl1EAAYASAAEgLHcfD_BwE
 
 https://lovable.dev/
+
+me de um exemplo criativo, bem elaborado, que impressionaria qualquer usuario independente da idade, de facil interação, com linguagem simples e objetiva, de um site onde os pais de alunos e alunos maiores de 16 anos pudessem encontrar amigos que os pais vem pegar na escola, e tem o mesmo intinerário que o usuário que precisa de um transporte para ir para a casa, poederia solicitar uma carono. o site sera criado no lovable
+
+
+https://github.com/jgalvesjr/carona-comigo.git
+https://supabase.com/ banco de dados online
+
+Compilar depois do lovable e construdo em cima do react - linguagem
+
+https://www.hostinger.com/br?utm_campaign=Brand-Exact|NT:Se|LO:BR&utm_medium=ppc&gad_source=1&gad_campaignid=19482641236&gbraid=0AAAAADMy-haEDW_7uAfXSHt2iQayGZg-4&gclid=EAIaIQobChMIhZ614uubjwMVfl5HAR3N0TP0EAAYASAAEgJoWvD_BwE
+
+https://codepen.io/ -pegar paginas
+
+chatgpt
+
+criar pagina welcome
+
+montei um sistemas e a pagina html de bem vindo, (welcome.html) esta vazia, preciso criar um html+css+js com conteúdo bacana, falando que o usuário conseguiu efetuar o login e ter um botao para voltar para a pagina inicia (inicio.html). Crie o código completo e mostre de uma forma que eu posso copiar tudo.
